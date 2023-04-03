@@ -1,7 +1,7 @@
 'use strict';
 
 const express = require('express');
-const capitalize = require('.capitalize/capitalize');
+const capitalize = require('./capitalize/capitalize');
 const cors = require('cors');
 
 const app = express();
